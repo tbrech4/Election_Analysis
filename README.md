@@ -20,7 +20,7 @@ Denver County had the majority of votes cast. 82.8% of the total votes cast were
 
 * Election results for each candidate is as follows:
 
-INSERT PHOTO HERE
+! [Candidate Results] (https://github.com/tbrech4/Election_Analysis/blob/main/Submission/Resources/Candidate_Results.png)
 
 * Diana DeGette won the election, receiving 73.8% of the vote total (272,892 votes in total).
 
